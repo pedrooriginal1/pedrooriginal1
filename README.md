@@ -27,8 +27,8 @@
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rot498&show_icons=true&theme=radical&hide_border=true&border_radius=10)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rot498&layout=compact&theme=radical&hide_border=true&border_radius=10)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrooriginal1show_icons=true&theme=radical&hide_border=true&border_radius=10)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooriginal1layout=compact&theme=radical&hide_border=true&border_radius=10)
 
 </div>
 
