@@ -36,9 +36,9 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/679/679720.png" width="30"/> Projetos em Destaque
 
-- 🪵 **BN Marcenaria** — Site institucional com API de contato.  
-- 🧱 **STOPEÇAS** — Sistema de controle de peças e pedidos.  
-- 🎮 **Códigos do Tempo** — Jogo educativo em Java com desafios de lógica.
+- 🪵 [**BN Marcenaria**](https://github.com/Rot498/BNmarcenaria) — Site institucional com API de contato.  
+- 🧱 [**STOPEÇAS**](https://github.com/Rot498/ProjetoWeb) — Sistema de controle de peças e pedidos.  
+- 🎮 [**Códigos do Tempo**](https://github.com/Rot498/Grupo_6_Turma_A) — Jogo educativo em Java com desafios de lógica.
 
 ---
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-henrique2808)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ph7205544@gmail.com)
 
 </div>
 
