@@ -27,8 +27,8 @@
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrooriginal1show_icons=true&theme=radical&hide_border=true&border_radius=10)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooriginal1layout=compact&theme=radical&hide_border=true&border_radius=10)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrooriginal1&show_icons=true&theme=radical&hide_border=true&border_radius=10)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooriginal1&layout=compact&theme=radical&hide_border=true&border_radius=10)
 
 </div>
 
@@ -36,9 +36,9 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/679/679720.png" width="30"/> Projetos em Destaque
 
-- 🪵 [**BN Marcenaria**](https://github.com/Rot498/BNmarcenaria) — Site institucional com API de contato. 
-- ⚽ [**LINHA DIRETA**](https://github.com/pedrooriginal1/Linha-Direta.git) — Blog esportivo.
-- ✅ [**API DE CONTATO**](https://github.com/pedrooriginal1/API-de-Contato.git) — API para contato no Gmail.
+- 🪵 [**BN Marcenaria**](https://github.com/Rot498/BNmarcenaria) — Site institucional com API de contato.  
+- ⚽ [**LINHA DIRETA**](https://github.com/pedrooriginal1/Linha-Direta.git) — Blog esportivo.  
+- ✅ [**API DE CONTATO**](https://github.com/pedrooriginal1/API-de-Contato.git) — API para contato no Gmail.  
 - 🎮 [**Códigos do Tempo**](https://github.com/Rot498/Grupo_6_Turma_A) — Jogo educativo em Java com desafios de lógica.
 
 ---
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique2808)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique2808)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph7205544@gmail.com)
 
 </div>
