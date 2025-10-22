@@ -37,8 +37,8 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/679/679720.png" width="30"/> Projetos em Destaque
 
 - 🪵 [**BN Marcenaria**](https://github.com/Rot498/BNmarcenaria) — Site institucional com API de contato.  
-- ⚽ [**LINHA DIRETA**](https://github.com/pedrooriginal1/Linha-Direta.git) — Blog esportivo.  
-- ✅ [**API DE CONTATO**](https://github.com/pedrooriginal1/API-de-Contato.git) — API para contato no Gmail.  
+- ⚽ [**Linha Direta**](https://github.com/pedrooriginal1/Linha-Direta.git) — Blog esportivo.  
+- ✅ [**API De Contato**](https://github.com/pedrooriginal1/API-de-Contato.git) — API para contato no Gmail.  
 - 🎮 [**Códigos do Tempo**](https://github.com/Rot498/Grupo_6_Turma_A) — Jogo educativo em Java com desafios de lógica.
 
 ---
